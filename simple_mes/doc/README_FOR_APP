@@ -1,0 +1,18 @@
+SimpleMES
+
+Objectives:
+
+Serial number or lot tracking through defined processes.
+
+Elements (Lot Tracking):
+
+Lot entry interface - Define part number. Enter quantity started.  Put in part number and checklist of processes to be done shows up.  Uncheck unnecessary processes.
+
+Normal user interface - Enter in user.  Enter in Lot Number.  Confirm operation.  Start.
+
+Option to stop, complete, or pause.
+
+Restart.
+
+
+
